@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   const history = [
     { role: "ai", text: "¿En qué ciudad vives?" },
-    { role: "user", text: "Vivo en Málaga" },
+    { role: "user", text: "Vivo en Madrid" },
   ];
 
   return (
